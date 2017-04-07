@@ -1,0 +1,17 @@
+* master
+everything else
+
+
+
+
+* develop
+develop2.txt
+develop3.txt
+
+
+
+
+
+* newfeature
+newfeature.txt
+status.txt
